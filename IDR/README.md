@@ -1,4 +1,4 @@
 
-## covtype data 
-<img src = 'image/Result_covtype.png' height = '400px'> 
+## Covetype data 
+<img src = 'image/Result_covetype.png' height = '400px'> 
 
