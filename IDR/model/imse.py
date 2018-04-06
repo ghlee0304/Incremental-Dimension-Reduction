@@ -52,27 +52,3 @@ class IMSE (object):
         tmp = np.expand_dims(np.ones(np.size(testset,0)),axis=1)
         tmp = np.append(tmp, testset[:,:-1], axis=1)
         return np.matmul(tmp,self.W)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-    
