@@ -1,3 +1,0 @@
-
-![covtype](https://github.com/azrueangma/Incremental-Dimension-Reduction/blob/master/IDR/image/Result_covtype.png)
-
