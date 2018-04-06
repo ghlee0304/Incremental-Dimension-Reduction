@@ -1,4 +1,4 @@
 
-## Covetype data 
-<img src = 'image/Result_covetype.png' height = '400px'> 
+## Digits data 
+<img src = 'image/digits.png' height = '400px'> 
 
